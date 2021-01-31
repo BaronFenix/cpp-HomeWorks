@@ -1,0 +1,6 @@
+//#include "examHeader.h"
+#include <iostream>
+// тут был криптон... 
+
+
+// пока его кто то не спер...
